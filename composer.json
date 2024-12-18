@@ -1,0 +1,19 @@
+{
+    "name": "aktech/aktech-php-package-template",
+    "description": "A PHP Package template",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "aktech\\template\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amit Kumar",
+            "email": "dtu.amit@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
